@@ -43,6 +43,9 @@ follow the lectures of the summer school.
 </object>
 
 
+<iframe frameborder="0" height="400" width="100%" scrolling="yes" src="https://nbviewer.jupyter.org/github/escape2020/school2021/blob/main/env_setup/notebooks_lecture/Notebook-tutorial_basics.ipynb"></iframe>
+
+
 ## Lecture
 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/e1dIWFBwD_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
